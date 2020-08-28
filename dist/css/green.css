@@ -1,0 +1,38 @@
+.aside .logo a::before {
+  border-top: 4px solid #72b626;
+  border-left: 4px solid #72b626;
+}
+
+.aside .logo a::after {
+  border-right: 4px solid #72b626;
+  border-bottom: 4px solid #72b626;
+}
+
+body.dark .portfolio .portfolio-filter button.active,
+.contact .contact-info-item .icon,
+.portfolio .portfolio-item .portfolio-item-inner .portfolio-info .icon,
+.portfolio .portfolio-filter button.active,
+.service .service-item .service-item-inner .icon,
+.about .about-content .about-text h3 span,
+.aside .nav li a:hover,
+body.dark .aside .nav li a:hover,
+body.dark .aside .nav li a.active,
+.aside .nav li a.active {
+  color: #72b626;
+}
+
+.about .container .about-content2 .timeline .circle-dot,
+.about .container .about-content2 .timeline .timeline-item::before,
+.about .about-content .skills .skill-item .progress .progress-in,
+.btn,
+.section-title h2::after,
+.section-title h2::before,
+.aside .nav-toggler span,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after,
+.home .intro .social-links a {
+  background: #72b626;
+}
+.portfolio .portfolio-filter button.active{
+  border-color: #72b626;
+}
