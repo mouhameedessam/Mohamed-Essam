@@ -1015,6 +1015,9 @@ textarea {
     display: block;
     margin-left: 0;
   }
+   .about .about-content .personal-info .info-item:nth-child(3) p span{
+    font-size:12px;
+  }
     .about .about-content .personal-info .info-item:nth-child(4) p span {
     display: inline-block;
   }
