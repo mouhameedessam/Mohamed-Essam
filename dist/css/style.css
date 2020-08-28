@@ -1018,9 +1018,9 @@ textarea {
    .about .about-content .personal-info .info-item:nth-child(3) p span{
     font-size:12px;
   }
-    .about .about-content .personal-info .info-item:nth-child(4) p span {
+/*     .about .about-content .personal-info .info-item:nth-child(4) p span {
     display: inline-block;
-  }
+  } */
 
   .portfolio .portfolio-filter button {
     font-size: 14px;
